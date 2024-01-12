@@ -62,7 +62,7 @@ function BellyButton(value){
 
         // Setup the layout
         let layout = {
-            title: "Top 10 OTUs Present"
+            title: "Top 10 OTU's Present"
         };
 
         // Call Plotly to plot the bar chart
